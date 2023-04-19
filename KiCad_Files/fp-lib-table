@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "blinkyparts")(type "KiCad")(uri "/home/timo/Nextcloud/Workspace/PCBs/DemoDino/blinkyparts.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "Binary_Kitchen")(type "KiCad")(uri "${KIPRJMOD}/Binary_Kitchen.pretty")(options "")(descr ""))
 )
